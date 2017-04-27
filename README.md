@@ -1,3 +1,5 @@
-# wb32f00 wifiBoy esp32 forth 00
+# wb32f00 wifiBoy esp32 forth proj 00
 
-define a simple console echoing each input line
+## simple console parsing numbers to data stack
+
+need f0_tib, f1_str, f2_dStack, and f3_parse
